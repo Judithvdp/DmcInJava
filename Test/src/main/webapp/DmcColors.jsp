@@ -9,6 +9,6 @@
 <body>
 	Here are all the Dmc colors displayed.
 	<br>
-	
+	<table></table>
 </body>
 </html>
